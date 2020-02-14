@@ -1,0 +1,50 @@
+Phase 2 model summary
+This document is meant to be a summary of the models used on the Phase 2 data. Provide the following details for EACH sub-challenge within “Summary-Phase2.txt”
+
+------------------------------
+Summary-Phase2-Sub-challenge-1
+------------------------------
+Provide information on model settings and parameters used:
+	Based on the performance during training (accuracy, specificity & sesitivity), we have
+	selected the best cross-validation model. For SC1, radial SVM (CV2) outperfomred with
+		# TRAINING
+		# CV 2: 
+		# ACC = 0.9000000
+		# SPEC = 1.0000000
+		# SEN = 0.250
+Features used
+	GMPR2, CASTOR1, KLHDC2, MTHFD2, SF3A1, STK32B, PLAT, UBR5, CNBP
+Link to complete code in a public GitHub repository 
+	REPO: https://github.com/rintukutum/precisionFDA-BCC-PH02/
+------------------------------
+Summary-Phase2-Sub-challenge-2
+------------------------------
+Provide information on model settings and parameters used:
+	Based on the performance during training (accuracy, specificity & sesitivity), we have
+	selected the best cross-validation model. For SC2, radial SVM (CV3) outperfomred with
+		# TRAINING
+		# CV 3: 
+		# ACC = 0.7857143
+		# SPEC = 0.9047619
+		# SEN = 0.4285714
+Features used
+	9p24.1, 1p32.2, 9p22.3, 7p11.2
+Link to complete code in a public GitHub repository 
+	REPO: https://github.com/rintukutum/precisionFDA-BCC-PH02/
+
+------------------------------
+Summary-Phase2-Sub-challenge-3
+------------------------------
+Provide information on model settings and parameters used:
+	Based on the performance during training (accuracy, specificity & sesitivity), we have
+	selected the best cross-validation model. For SC2, radial SVM (CV1) outperfomred with
+		# TRAINING
+		# CV 1: 
+		# ACC = 0.9259259
+		# SPEC = 1.0000000
+		# SEN = 0.6666667
+Features used
+	ULBP2, CNBP, RPL30
+Link to complete code in a public GitHub repository 
+	REPO: https://github.com/rintukutum/precisionFDA-BCC-PH02/
+

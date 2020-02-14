@@ -15,7 +15,7 @@ Provide information on model settings and parameters used:
 Features used
 	GMPR2, CASTOR1, KLHDC2, MTHFD2, SF3A1, STK32B, PLAT, UBR5, CNBP
 Link to complete code in a public GitHub repository 
-	REPO: https://github.com/rintukutum/precisionFDA-BCC-PH02/
+	https://github.com/rintukutum/precisionFDA-BCC-PH02/blob/master/01-ph02-sc1-predict.R
 ------------------------------
 Summary-Phase2-Sub-challenge-2
 ------------------------------
@@ -30,7 +30,7 @@ Provide information on model settings and parameters used:
 Features used
 	9p24.1, 1p32.2, 9p22.3, 7p11.2
 Link to complete code in a public GitHub repository 
-	REPO: https://github.com/rintukutum/precisionFDA-BCC-PH02/
+	https://github.com/rintukutum/precisionFDA-BCC-PH02/blob/master/02-ph02-sc2-predict.R
 
 ------------------------------
 Summary-Phase2-Sub-challenge-3
@@ -46,5 +46,5 @@ Provide information on model settings and parameters used:
 Features used
 	ULBP2, CNBP, RPL30
 Link to complete code in a public GitHub repository 
-	REPO: https://github.com/rintukutum/precisionFDA-BCC-PH02/
+	https://github.com/rintukutum/precisionFDA-BCC-PH02/blob/master/03-ph02-sc3-predict.R
 
